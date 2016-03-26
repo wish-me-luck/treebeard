@@ -1,0 +1,22 @@
+{
+  "name": "product_service",
+  "version": "1.0.0",
+  "description": "product dataservice",
+  "main": "productService.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wish-me-luck/treebeard.git"
+  },
+  "keywords": [
+    "data-service"
+  ],
+  "author": "Guoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wish-me-luck/treebeard/issues"
+  },
+  "homepage": "https://github.com/wish-me-luck/treebeard#readme"
+}
