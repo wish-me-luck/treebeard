@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wish-me-luck/treebeard.git"
+    "url": "git@github.com:wish-me-luck/treebeard.git"
   },
   "keywords": [
     "data-service"
